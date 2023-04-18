@@ -20,8 +20,8 @@ class AddStudentActivity : AppCompatActivity() {
     private var studentGenderRadioGroup: RadioGroup? = null
     private var registrationNumberET: EditText? = null
     private var attendancePercentageET: EditText? = null
-    private var registrationNumber: String? = null
-    private var attendancePercentage: String? = null
+    private var registrationNumber: EditText? = null
+    private var attendancePercentage: EditText? = null
 
     private var saveStudentBtn: Button? = null
 
