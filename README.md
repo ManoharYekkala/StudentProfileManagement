@@ -1,1 +1,1 @@
-# Kotlin_Week06_StudentManagement_ver3
+StudentProfileManagement Kotlin
